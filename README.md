@@ -12,5 +12,6 @@ connection
 realtime data stream & data fetch, funds, margin, notification variables
 order place,exit,modify,squareoff variables
 
-ui logic code
+Ui logic code
 -----------------
+Run simple_gui or advance gui file
