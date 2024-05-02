@@ -1,0 +1,5 @@
+userid = ''
+password = ''
+session_key = ''
+api_key = ''
+secret_key = ''
