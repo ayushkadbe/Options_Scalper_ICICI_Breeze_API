@@ -1,9 +1,9 @@
 INSTALLATION:
 
-python -m ./venv
-python -m venv myvenv
-myvenv\Scripts\activate 
-If above doesn't work use: Set-ExecutionPolicy Unrestricted -Scope Process
+* python -m ./venv
+* python -m venv myvenv
+* myvenv\Scripts\activate 
+* If above doesn't work use command: "Set-ExecutionPolicy Unrestricted -Scope Process"
 
 login.py
 -----------
